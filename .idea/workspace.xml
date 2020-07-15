@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60180123-e0ba-4825-bb83-3f2d977d5170" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1cqTw2U2IISbFmwgak2hbbVTg2c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.TaskKt (1)">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Minesweeper-task" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="minesweeper.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Handle_string_exception" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Handle_number_format_exception" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Problems-The_sum_of_digits" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TaskKt (1)" />
+        <item itemvalue="Kotlin.TaskKt (2)" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60180123-e0ba-4825-bb83-3f2d977d5170" name="Default Changelist" comment="" />
+      <created>1591255358732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591255358732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="77" key="#Notifications" timestamp="1591616713261">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="77" key="#Notifications/0.23.1280.777@0.23.1280.777" timestamp="1591616713261" />
+    <state width="1236" height="235" key="GridCell.Tab.0.bottom" timestamp="1591945345481">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="303" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591602087854" />
+    <state width="1236" height="235" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1591945345481" />
+    <state width="1236" height="235" key="GridCell.Tab.0.center" timestamp="1591945345480">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="303" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591602087852" />
+    <state width="1236" height="235" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1591945345480" />
+    <state width="1236" height="235" key="GridCell.Tab.0.left" timestamp="1591945345479">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="303" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591602087852" />
+    <state width="1236" height="235" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1591945345479" />
+    <state width="1236" height="235" key="GridCell.Tab.0.right" timestamp="1591945345480">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="303" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591602087853" />
+    <state width="1236" height="235" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1591945345480" />
+    <state width="1236" height="235" key="GridCell.Tab.1.bottom" timestamp="1591945345482">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="253" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591602060063" />
+    <state width="1236" height="235" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1591945345482" />
+    <state width="1236" height="235" key="GridCell.Tab.1.center" timestamp="1591945345481">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="253" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1591602060061" />
+    <state width="1236" height="235" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1591945345481" />
+    <state width="1236" height="235" key="GridCell.Tab.1.left" timestamp="1591945345481">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="253" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1591602060060" />
+    <state width="1236" height="235" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1591945345481" />
+    <state width="1236" height="235" key="GridCell.Tab.1.right" timestamp="1591945345482">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1236" height="253" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1591602060061" />
+    <state width="1236" height="235" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1591945345482" />
+    <state x="310" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1591341609910">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="310" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1591341609910" />
+    <state x="214" y="136" width="852" height="550" key="find.popup" timestamp="1591529839869">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="214" y="136" width="852" height="550" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1591529839869" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1591525824729">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1591525824729" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Problems/The longest sequence/src/Task.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Minesweeper/task/src/minesweeper/Main.kt</url>
+          <line>89</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Problems/Handle number format exception/src/Task.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
